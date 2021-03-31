@@ -1,2 +1,2 @@
-Code is cool\n
-Starting from zero\n
+Code is cool
+Starting from zero
